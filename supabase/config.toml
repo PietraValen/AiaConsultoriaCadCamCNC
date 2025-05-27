@@ -1,0 +1,17 @@
+
+project_id = "rtwgcdhbibdqegbrsdql"
+
+[functions.api-clientes]
+verify_jwt = false
+
+[functions.api-admin-vendedores]
+verify_jwt = false
+
+[functions.api-admins]
+verify_jwt = false
+
+[functions.api-verificar-email]
+verify_jwt = false
+
+[functions.api-login]
+verify_jwt = false
